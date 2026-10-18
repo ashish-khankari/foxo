@@ -6,7 +6,7 @@ and helps a patient walk into a doctor's appointment knowing what to ask.
 > **Independent demo.** Built as a personal project, not affiliated with any company.
 > All data is made up. **Not medical advice.**
 
-**Demo video:** [Watch the walkthrough on Loom](https://www.loom.com/share/f7a4e80eb8d24994ad4c947552d04818)
+**Demo video:** [Watch the walkthrough on Loom](https://www.loom.com/share/3044f1fda4ae44b5a0f6fc65060bf583)
 
 ## The problem
 
